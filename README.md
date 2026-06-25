@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋 I'm Santosh Kumar
 
-<!--
-**santoshkumar-dev620/santoshkumar-dev620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python/Django Developer
 
-Here are some ideas to get you started:
+💻 Backend Developer with 2+ years of experience in building enterprise web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+- Python
+- Django
+- Django REST Framework
+- REST APIs
+- PostgreSQL
+- MySQL
+- React.js
+- Microsoft Entra ID (Azure AD)
+- Microsoft Graph API
+- Git
+
+---
+
+## 🔥 Projects
+
+### 🏢 Facility Management Solution
+
+- Azure AD Authentication
+- Ticket Management
+- REST APIs
+- MIS Dashboard
+
+### 📅 Conference Hall Booking System
+
+- Outlook Calendar Integration
+- Microsoft Graph API
+- RBAC
+- Booking Workflow
+
+### 📊 Business Operations Portal
+
+- Dashboard
+- Reporting
+- Search
+- CSV Export
+
+### 🏠 Rent Management System
+
+- Landlord Management
+- Agreement Tracking
+- Payment Management
+
+---
+
+## 📫 Connect with Me
+
+📧 santosharyan34035@gmail.com
+
+🔗 LinkedIn:
+https://linkedin.com/in/santosh-kumar-337804222
