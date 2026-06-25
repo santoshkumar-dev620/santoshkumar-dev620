@@ -1,58 +1,66 @@
-# Hi 👋 I'm Santosh Kumar
+# Hi 👋, I'm Santosh Kumar
 
-## Python/Django Developer
+## Python/Django Developer | Backend Developer
 
-💻 Backend Developer with 2+ years of experience in building enterprise web applications.
-
-### 🚀 Tech Stack
-
-- Python
-- Django
-- Django REST Framework
-- REST APIs
-- PostgreSQL
-- MySQL
-- React.js
-- Microsoft Entra ID (Azure AD)
-- Microsoft Graph API
-- Git
+I am a Software Developer with 2+ years of experience in building enterprise web applications using Python, Django, SQL, React.js, and REST APIs.
 
 ---
 
-## 🔥 Projects
+## 🚀 Tech Stack
+
+* Python
+* Django
+* Django REST Framework (DRF)
+* REST APIs
+* PostgreSQL
+* MySQL
+* React.js
+* JavaScript
+* HTML5
+* CSS3
+* Microsoft Entra ID (Azure AD)
+* Microsoft Graph API
+* Git
+* GitLab
+
+---
+
+## 💼 Projects
 
 ### 🏢 Facility Management Solution
 
-- Azure AD Authentication
-- Ticket Management
-- REST APIs
-- MIS Dashboard
+* Ticket Management System
+* Azure AD SSO Authentication
+* REST APIs
+* MIS Dashboard
+* Email Notifications
 
 ### 📅 Conference Hall Booking System
 
-- Outlook Calendar Integration
-- Microsoft Graph API
-- RBAC
-- Booking Workflow
+* Outlook Calendar Integration
+* Microsoft Graph API
+* Booking Workflow
+* RBAC
 
 ### 📊 Business Operations Portal
 
-- Dashboard
-- Reporting
-- Search
-- CSV Export
+* Dashboard
+* Reports
+* Search
+* CSV Export
 
 ### 🏠 Rent Management System
 
-- Landlord Management
-- Agreement Tracking
-- Payment Management
+* Agreement Tracking
+* Landlord Management
+* Payment Tracking
+* Analytics Dashboard
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-📧 santosharyan34035@gmail.com
+📧 Email: **[santosharyan34035@gmail.com](mailto:santosharyan34035@gmail.com)**
 
-🔗 LinkedIn:
+💼 LinkedIn:
 https://linkedin.com/in/santosh-kumar-337804222
